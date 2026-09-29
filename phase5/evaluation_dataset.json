@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What percentage of IT workers reported using Generative AI tools?",
+    "context": "The study reports that 97% of IT workers use Generative AI tools, primarily ChatGPT.",
+    "reference_answer": "97% of IT workers reported using Generative AI tools."
+  },
+  {
+    "id": 2,
+    "question": "What does the study report about the effect of Generative AI on personal productivity?",
+    "context": "Participants reported significant personal productivity gains from using Generative AI.",
+    "reference_answer": "Participants reported significant personal productivity gains from using Generative AI."
+  },
+  {
+    "id": 3,
+    "question": "What relationship does the study report between Generative AI adoption and organizational efficiency?",
+    "context": "Organizational efficiency correlates positively with Generative AI adoption (r = .470, p < .05).",
+    "reference_answer": "The study reports a positive correlation between Generative AI adoption and organizational efficiency."
+  },
+  {
+    "id": 4,
+    "question": "What challenges to Generative AI adoption are identified in the study?",
+    "context": "The study identifies inaccurate outputs (64.2%), regulatory compliance issues (58.2%), and ethical concerns (52.2%) as adoption challenges.",
+    "reference_answer": "The main challenges identified are inaccurate outputs, regulatory compliance issues, and ethical concerns."
+  },
+  {
+    "id": 5,
+    "question": "What relationship does the study report between organizational Generative AI adoption and employee job security concerns?",
+    "context": "Increased organizational adoption of Generative AI correlates with heightened employee job security concerns (r = .549, p < .001).",
+    "reference_answer": "The study reports a positive correlation between increased organizational Generative AI adoption and employee job security concerns."
+  }
+]
